@@ -21,7 +21,7 @@ yarn install
 
 ### Run the server
 ```
-node index.js
+node src/index.js
 ```
 
 Now, go to the following URL in your browser
